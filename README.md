@@ -1,1 +1,3 @@
 # cancer-therapy-schedule-optimization
+
+Created a mathematical model to predict the effects of two cancer therapies (bevacizumab and tirapazamine) on non-small cell lung cancer growth (NSCLC). Cancer patients typically require a combination of various therapies (anti-angiogenic, chemotherapy) for treatment; however, currently there isn't an effective way at determining the best scheduling of these therapies, as one therapy may influence the effectiveness of anther. The goal of this project was to 1) model NSCLC, bevacizumab, and tirapazamine as ODEs and 2) optimize the scheduling of two NSCLC therapies by minimizing toxicity and tumor regrowth. The models were created on MATLAB.
